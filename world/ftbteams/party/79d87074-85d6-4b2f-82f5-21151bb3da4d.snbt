@@ -1,0 +1,41 @@
+{
+	id: "79d87074-85d6-4b2f-82f5-21151bb3da4d"
+	type: "party"
+	owner: "350309a3-6d1d-37da-bcac-3782041fbd9a"
+	ranks: {
+		85e131c2-909a-3488-8927-aa62d5e7cf32: "member"
+		d286f5d5-1e62-346d-b1da-2ae4c58b2378: "member"
+		7b40f346-246d-3ec0-bfca-84c0c2de34b4: "member"
+		350309a3-6d1d-37da-bcac-3782041fbd9a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Молоді генії"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750015918775L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Musulmanskii\"}]}" }
+		{ from: "350309a3-6d1d-37da-bcac-3782041fbd9a", date: 1750015927130L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"____Tom_\"}]}" }
+		{ from: "350309a3-6d1d-37da-bcac-3782041fbd9a", date: 1750015929214L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"D1vaik\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750015931952L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"D1vaik\"}]}" }
+		{ from: "350309a3-6d1d-37da-bcac-3782041fbd9a", date: 1750016101977L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"____Tom_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750016107444L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"____Tom_\"}]}" }
+		{ from: "350309a3-6d1d-37da-bcac-3782041fbd9a", date: 1750016266362L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AWENIT\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750016292046L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AWENIT\"}]}" }
+	]
+	extra: { }
+}
