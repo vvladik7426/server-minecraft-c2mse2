@@ -774,14 +774,15 @@ if ("${SkipJavaCheck}" -eq "true")
 if (!("${Restart}" -eq "true"))
 {
     Write-Host "Exiting..."
+
+    git add -u .
+    git commit -m "server stopped"
+    git push
+
     if ("${WaitForUserInput}" -eq "true")
     {
         PauseScript
     }
     exit 0
 }
-
-git add -u .
-git commit -m "server stopped"
-git push
 ""
