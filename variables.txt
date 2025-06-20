@@ -60,7 +60,7 @@ JAVA_ARGS="-Xms4G -Xmx4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPause
 JAVA="java"
 WAIT_FOR_USER_INPUT=true
 ADDITIONAL_ARGS=-Dlog4j2.formatMsgNoLookups=true
-RESTART=true
+RESTART=false
 SKIP_JAVA_CHECK=false
 JDK_VENDOR=temurin
 JABBA_INSTALL_URL_SH=https://github.com/Jabba-Team/jabba/raw/main/install.sh
