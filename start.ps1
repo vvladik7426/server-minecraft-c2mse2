@@ -760,25 +760,28 @@ RunJavaCommand "-version"
 # Depending on $Restart the server runs in a loop, to make sure it comes right back up after crashing. Force exit can be
 # achieved by hitting CTRL+C multiple times. Variables are not reloaded between server runs. Quit the script and re-run
 # it if you wish to reload the variables.
-while ($true)
+
+git add -u .
+git commit -m "server started"
+git push
+
+RunJavaCommand "${AdditionalArgs} ${ServerRunCommand}"
+if ("${SkipJavaCheck}" -eq "true")
 {
-    RunJavaCommand "${AdditionalArgs} ${ServerRunCommand}"
-    if ("${SkipJavaCheck}" -eq "true")
+    "Java version check was skipped. Did the server stop or crash because of a Java version mismatch?"
+    "Detected $($Semantics[0]).$($Semantics[1]).$($Semantics[2]) - Java $($JavaVersion), recommended $($RecommendedJavaVersion)"
+}
+if (!("${Restart}" -eq "true"))
+{
+    Write-Host "Exiting..."
+    if ("${WaitForUserInput}" -eq "true")
     {
-        "Java version check was skipped. Did the server stop or crash because of a Java version mismatch?"
-        "Detected $($Semantics[0]).$($Semantics[1]).$($Semantics[2]) - Java $($JavaVersion), recommended $($RecommendedJavaVersion)"
+        PauseScript
     }
-    if (!("${Restart}" -eq "true"))
-    {
-        Write-Host "Exiting..."
-        if ("${WaitForUserInput}" -eq "true")
-        {
-            PauseScript
-        }
-        exit 0
-    }
-    "Automatically restarting server in 5 seconds. Press CTRL + C to abort and exit."
-    Start-Sleep -Seconds 5
+    exit 0
 }
 
+git add -u .
+git commit -m "server stopped"
+git push
 ""
