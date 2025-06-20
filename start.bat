@@ -32,3 +32,6 @@ PUSHD %~dp0
 SET SCRIPTDIR=%~dp0
 SET PSSCRIPTPATH=%SCRIPTDIR%start.ps1
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& '%PSSCRIPTPATH%'";
+git add -u .
+git commit -m "server stopped"
+git push
