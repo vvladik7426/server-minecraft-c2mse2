@@ -2415,6 +2415,7 @@
     "criteria": {
       "sweet_berries": "2025-06-16 01:18:28 +0300",
       "baked_potato": "2025-06-15 23:53:12 +0300",
+      "potato": "2025-06-21 04:23:00 +0300",
       "cookie": "2025-06-17 00:31:59 +0300"
     },
     "done": false
@@ -5737,39 +5738,21 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-06-19 01:56:28 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-19 02:04:00 +0300"
     },
     "done": true
   },
-  "projecte:recipes/misc/conversions/charcoal_to_coal": {
-    "criteria": {
-      "has_charcoal": "2025-06-19 02:30:36 +0300"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "1": "2025-06-19 02:36:24 +0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-19 02:04:00 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
-    "criteria": {
-      "has_item": "2025-06-19 02:27:24 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2025-06-19 02:23:20 +0300"
     },
     "done": true
   },
@@ -5779,39 +5762,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
-    "criteria": {
-      "has_item": "2025-06-19 02:27:24 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-19 02:26:47 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-06-19 02:04:00 +0300"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-06-19 02:23:19 +0300"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2025-06-19 01:56:28 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-06-19 02:18:30 +0300"
     },
     "done": true
   },
@@ -5842,6 +5795,1393 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-19 02:04:00 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-19 02:18:30 +0300"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-06-19 02:23:19 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-06-19 02:23:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-19 02:26:47 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-19 02:27:24 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
+    "criteria": {
+      "has_item": "2025-06-19 02:27:24 +0300"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/charcoal_to_coal": {
+    "criteria": {
+      "has_charcoal": "2025-06-19 02:30:36 +0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-21 02:43:55 +0300",
+      "1": "2025-06-19 02:36:24 +0300"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-06-21 01:37:30 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-06-21 04:15:40 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/spruce_crucible": {
+    "criteria": {
+      "has_item": "2025-06-21 03:29:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-21 03:35:44 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-06-21 04:38:23 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_red": {
+    "criteria": {
+      "nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-06-21 04:21:07 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-21 04:27:05 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence_gate": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chiseled_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-21 02:33:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-21 03:35:44 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_thick_lattice": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-21 04:40:37 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_iron": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/dark_matter": {
+    "criteria": {
+      "has_aeternalis": "2025-06-21 02:57:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-21 04:09:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "projecte:aeternalis_fuel": {
+    "criteria": {
+      "aeternalis_fuel": "2025-06-21 02:57:55 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_item": "2025-06-21 03:29:50 +0300"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/misc/framed_reinforcement": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_hammer": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2025-06-21 03:16:15 +0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-21 04:27:07 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_screwdriver": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-21 03:01:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tube": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_diamond": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-21 04:09:57 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/powered_framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-21 03:01:04 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-21 03:21:22 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_blueprint": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-06-21 03:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_hanging_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_wrench": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-21 04:09:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-06-21 04:38:23 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-06-21 04:38:23 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-21 03:01:03 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-21 03:21:22 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
+    "criteria": {
+      "iron_ingot": "2025-06-21 04:15:00 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-06-21 04:38:23 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-06-21 03:37:07 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_door": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/light": {
+    "criteria": {
+      "has_item": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/bright_white": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-06-21 03:11:42 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_silver": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-06-21 04:38:23 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-21 04:09:57 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/energy_cable_lv": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-21 03:35:44 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "industrialrenewal:recipes/misc/fluorescent": {
+    "criteria": {
+      "has_item": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-06-21 02:34:41 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-06-21 04:14:04 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-21 03:01:03 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_copper": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:16 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_copycat_block": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/aeternalis_fuel_block": {
+    "criteria": {
+      "has_aeternalis_fuel": "2025-06-21 02:57:55 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green": {
+    "criteria": {
+      "nugget": "2025-06-21 04:09:26 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-06-21 03:35:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-06-21 04:38:23 +0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_key": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedCube": "2025-06-21 02:42:45 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:12 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-21 04:09:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-06-21 04:27:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 03:35:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-21 04:05:56 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-06-21 02:39:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_gold": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_obsidian": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-21 04:39:54 +0300"
+    },
+    "done": true
+  },
+  "metalbarrels:recipes/building_blocks/upgrades/combine/wood_to_netherite": {
+    "criteria": {
+      "has_wood": "2025-06-21 04:39:54 +0300"
     },
     "done": true
   },

@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1750455229225L
+	last_login_time: 1750462296663L
 	chunks: {
 		"kubejs:crash_site": [{ x: -1, z: -1, time: 1750025025359L }]
 	}
