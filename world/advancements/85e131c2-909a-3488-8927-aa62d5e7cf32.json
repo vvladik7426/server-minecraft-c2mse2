@@ -5660,7 +5660,8 @@
       "minecraft:creeper": "2025-06-19 02:42:06 +0300",
       "minecraft:witch": "2025-06-19 02:42:06 +0300",
       "minecraft:wither_skeleton": "2025-06-23 01:30:22 +0300",
-      "minecraft:zombie": "2025-06-19 02:40:09 +0300"
+      "minecraft:zombie": "2025-06-19 02:40:09 +0300",
+      "minecraft:zombie_villager": "2025-07-04 20:14:48 +0300"
     },
     "done": false
   },
@@ -9191,7 +9192,103 @@
     },
     "done": true
   },
+  "projecte:recipes/redstone/nova_catalyst": {
+    "criteria": {
+      "has_tnt": "2025-06-23 17:14:12 +0300"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/paintballs_lumen_gray": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_pink": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_purple": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_light_gray": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_brown": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_red": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_blue": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_white": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_lime": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_black": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_green": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_yellow": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_magenta": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_orange": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_light_blue": {
+    "criteria": {
+      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lumen_cyan": {
     "criteria": {
       "has_paint_ball": "2025-06-23 17:16:53 +0300"
     },
@@ -9215,63 +9312,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/paintballs_lumen_pink": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_purple": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_light_gray": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "projecte:recipes/redstone/nova_catalyst": {
-    "criteria": {
-      "has_tnt": "2025-06-23 17:14:12 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_brown": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_red": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_blue": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
   "tconstruct:recipes/decorations/tables/scorched_forge": {
     "criteria": {
       "has_item": "2025-06-23 17:30:51 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_white": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_lime": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
     },
     "done": true
   },
@@ -9281,21 +9324,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/paintballs_lumen_black": {
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
     "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_green": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/paintballs_lumen_yellow": {
-    "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+      "has_item": "2025-06-23 17:30:51 +0300"
     },
     "done": true
   },
@@ -9305,9 +9336,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/paintballs_lumen_magenta": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+      "beacon": "2025-06-23 17:35:09 +0300"
     },
     "done": true
   },
@@ -9317,33 +9348,105 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
+  "exdeorum:recipes/misc/spruce_crucible": {
     "criteria": {
-      "beacon": "2025-06-23 17:35:09 +0300"
+      "has_item": "2025-07-04 20:36:27 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/paintballs_lumen_orange": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+      "has_book": "2025-07-04 20:48:32 +0300"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/tinkers_forge": {
+  "create:mechanical_crafter": {
     "criteria": {
-      "has_item": "2025-06-23 17:30:51 +0300"
+      "0": "2025-07-04 19:58:15 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/paintballs_lumen_light_blue": {
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
     "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+      "has_item": "2025-07-04 20:38:18 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/paintballs_lumen_cyan": {
+  "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
-      "has_paint_ball": "2025-06-23 17:16:53 +0300"
+      "has_item": "2025-07-04 20:38:42 +0300"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-04 20:51:48 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_item": "2025-07-04 20:36:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-04 20:48:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-04 20:48:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-04 19:47:21 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-04 20:39:14 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-07-04 19:57:59 +0300"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
+    "criteria": {
+      "has_item": "2025-07-04 20:39:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-04 20:48:32 +0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-07-04 20:48:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-04 19:54:33 +0300"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 20:48:32 +0300"
     },
     "done": true
   },

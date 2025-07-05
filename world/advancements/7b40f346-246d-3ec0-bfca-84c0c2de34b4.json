@@ -9137,9 +9137,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
-      "has_log": "2025-06-23 22:51:12 +0300"
+      "has_moss_block": "2025-06-23 21:59:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-23 21:59:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-23 21:59:43 +0300"
     },
     "done": true
   },
@@ -9191,12 +9203,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-06-23 22:50:27 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-23 22:50:14 +0300"
@@ -9215,18 +9221,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-06-23 21:59:43 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-06-23 22:51:12 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-23 22:50:14 +0300"
@@ -9239,21 +9233,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-06-23 22:51:12 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-23 22:50:14 +0300"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/jungle_compressed_sieve": {
-    "criteria": {
-      "has_item": "2025-06-23 22:51:12 +0300"
     },
     "done": true
   },
@@ -9263,33 +9245,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-06-23 22:50:27 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-23 22:50:14 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_moss_block": "2025-06-23 21:59:43 +0300"
+      "has_brick": "2025-06-23 22:50:27 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_logs": "2025-06-23 22:51:12 +0300"
+      "has_brick": "2025-06-23 22:50:27 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_moss_block": "2025-06-23 21:59:43 +0300"
+      "has_brick": "2025-06-23 22:50:27 +0300"
     },
     "done": true
   },
@@ -9299,9 +9275,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_brick": "2025-06-23 22:50:27 +0300"
+      "has_log": "2025-06-23 22:51:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-23 22:51:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-23 22:51:12 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/jungle_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-06-23 22:51:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-23 22:51:12 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_industrial_lamp": {
+    "criteria": {
+      "has_brown_industrial_lamp": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_brown_industrial_lamp": {
+    "criteria": {
+      "has_small_brown_industrial_lamp": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-07-04 19:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/copper_1": {
+    "criteria": {
+      "has_copper": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-04 20:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/jungle_sieve": {
+    "criteria": {
+      "has_item": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:20:48 +0300"
     },
     "done": true
   },
