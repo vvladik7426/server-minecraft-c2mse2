@@ -9497,5 +9497,23 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-07-06 23:08:21 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-07-06 23:08:21 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-07-06 23:08:21 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

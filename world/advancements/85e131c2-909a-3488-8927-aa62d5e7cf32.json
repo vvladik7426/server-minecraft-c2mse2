@@ -9348,21 +9348,39 @@
     },
     "done": true
   },
-  "exdeorum:recipes/misc/spruce_crucible": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_item": "2025-07-04 20:36:27 +0300"
+      "has_dandelion": "2025-07-04 19:47:21 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_book": "2025-07-04 20:48:32 +0300"
+      "has_egg": "2025-07-04 19:54:33 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-07-04 19:57:59 +0300"
     },
     "done": true
   },
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2025-07-04 19:58:15 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/spruce_crucible": {
+    "criteria": {
+      "has_item": "2025-07-04 20:36:27 +0300"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_item": "2025-07-04 20:36:27 +0300"
     },
     "done": true
   },
@@ -9378,15 +9396,21 @@
     },
     "done": true
   },
-  "create:burner": {
+  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
     "criteria": {
-      "0": "2025-07-04 20:51:48 +0300"
+      "has_item": "2025-07-04 20:39:14 +0300"
     },
     "done": true
   },
-  "exdeorum:recipes/misc/spruce_barrel": {
+  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
     "criteria": {
-      "has_item": "2025-07-04 20:36:27 +0300"
+      "has_item": "2025-07-04 20:39:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-04 20:48:32 +0300"
     },
     "done": true
   },
@@ -9402,30 +9426,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-04 19:47:21 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
-    "criteria": {
-      "has_item": "2025-07-04 20:39:14 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
-    "criteria": {
-      "has_item": "2025-07-04 19:57:59 +0300"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
-    "criteria": {
-      "has_item": "2025-07-04 20:39:14 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-04 20:48:32 +0300"
@@ -9438,15 +9438,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-07-04 19:54:33 +0300"
-    },
-    "done": true
-  },
   "enderio:recipes/misc/enchanter": {
     "criteria": {
       "has_ingredient": "2025-07-04 20:48:32 +0300"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-04 20:51:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-07-06 22:56:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-07-06 22:56:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/copper_1": {
+    "criteria": {
+      "has_copper": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-06 22:56:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-07-06 23:05:18 +0300"
     },
     "done": true
   },
